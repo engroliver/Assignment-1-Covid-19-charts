@@ -1,0 +1,9 @@
+#main-section{
+height:100vh;
+background-image: url(images/covid-backG.png) ;
+border: 2px solid black;
+padding: 25px;
+background-repeat: no-repeat;
+background-size: cover;
+opacity: 0.5;
+}
